@@ -198,6 +198,7 @@ export default function Welcome() {
                                     <option value="">Equipment Type</option>
                                     <option value="equipment1">Option 1</option>
                                     <option value="equipment2">Option 2</option>
+                                    <option value="equipment2">Option 3</option>
                                 </select>
                                 <div className="flex gap-2">
                                     <DatePicker

@@ -1,6 +1,5 @@
 import React, { JSX, memo, useState } from 'react';
 import { Link } from 'react-scroll';
-//import { Link as RouterLink } from 'react-router-dom';
 import { type SharedData } from '@/types';
 import { Link as RouterLink } from '@inertiajs/react';
 import humburgerIcon from '../assets/humburgerIcon.svg';
